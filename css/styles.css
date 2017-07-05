@@ -1,6 +1,52 @@
-h1
-{
+body{
+  margin: 0;
+ font-family: Trajan Pro ;
 
-	font-family: sans-serif;
-	color:purple;
+}
+
+
+.barra {
+  display: flex;
+  height: 10%;
+  background-color: #42f4ad;
+  justify-content:space-between;
+ 
+
+
+}
+
+
+/*
+.item {
+  height: 50%;
+  margin:30px;
+  color:white;
+}
+*/
+
+ul {
+  list-style: none;
+
+}
+li {
+  display: inline;
+  color: white;
+  margin: 20px;
+}
+
+
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+
+li a:hover
+{
+  color:black;
+}
+h1 {
+  color: white;
+  align-self: flex-start;
+  margin-left:5%;
 }
