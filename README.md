@@ -1,6 +1,6 @@
 # Flexbox NavBar
 A basic navbar built using [flexbox]  (link de flexbox)
 
-##Quickstart
+## Quickstart
 
--Clone the repository
+- Clone the repository
